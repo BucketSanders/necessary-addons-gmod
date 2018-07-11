@@ -5,13 +5,13 @@ This version contains a bunch of new features and functionality that V1 just did
 
 # Commands
 
-**!al** - enables the antilag script temporarily
-**!al 0** - disables the antilag script permanently
-**!al 1** - enables the antilag script permanently
+**!al** - enables the antilag script temporarily     
+**!al 0** - disables the antilag script permanently      
+**!al 1** - enables the antilag script permanently     
 
-Everything here is printed in the client's chat and is completely optimized for large server's use.
+Everything here is printed in the client's chat and is completely optimized for large server's use.     
 
-This addon has **no** effect on addons inside DarkRP servers or the latter.
+This addon has **no** effect on addons inside DarkRP servers or the latter.    
 
 # Why was this not posted on the workshop like the last one?
 Good question. My GMPU (gmod publishing tool) decided to kill itself and not work. So I'm leaving the logo inside the file just because I can...I guess.

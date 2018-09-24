@@ -1,4 +1,4 @@
-# This addon is a V2 of the other Bucket's Optmizations addon in here
+# This addon is a V2 of the other Bucket's Optimizations addon in here
 
 # Why make a V2 and not update the V1?
 This version contains a bunch of new features and functionality that V1 just didn't offer.
